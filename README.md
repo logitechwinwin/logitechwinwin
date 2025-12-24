@@ -1,4 +1,4 @@
-# Hi there, I'm Win Win! 👋
+# Hi there, I'm Win Win!  👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Senior+Full+Stack+Developer;8%2B+Years+of+Experience;Building+Scalable+Web+Applications;AI%2FML+Integration+Specialist;Remote+Work+Expert" alt="Typing SVG" />
