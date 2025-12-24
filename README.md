@@ -1,7 +1,7 @@
 # Hi there, I'm Henzzi Messi! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Senior+Full+Stack+Developer;9%2B+Years+of+Experience;Building+Scalable+Web+Applications;AI%2FML+Integration+Specialist;Remote+Work+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Senior+Full+Stack+Developer;8%2B+Years+of+Experience;Building+Scalable+Web+Applications;AI%2FML+Integration+Specialist;Remote+Work+Expert" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-I'm a **Senior Full Stack Developer** with **9+ years of experience** building enterprise-grade applications. I specialize in creating scalable, high-performance web and mobile solutions for global companies.
+I'm a **Senior Full Stack Developer** with **8+ years of experience** building enterprise-grade applications. I specialize in creating scalable, high-performance web and mobile solutions for global companies.
 
 - 🔭 **Currently:** Open to new remote opportunities
 - 🏢 **Previous:** Senior Full Stack Developer at Aptive Environmental (US Remote)
