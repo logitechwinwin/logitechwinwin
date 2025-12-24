@@ -1,13 +1,11 @@
-# Hi there, I'm Henzzi Messi! 👋
+# Hi there, I'm Win Win! 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Senior+Full+Stack+Developer;8%2B+Years+of+Experience;Building+Scalable+Web+Applications;AI%2FML+Integration+Specialist;Remote+Work+Expert" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+    <a href="https://portfolio-jonathan-97.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </div>
 
 <br/>
@@ -138,46 +136,6 @@ I'm a **Senior Full Stack Developer** with **8+ years of experience** building e
 
 ---
 
-## 💼 Professional Experience
-
-### 🏢 Aptive Environmental (Remote - US) | Feb 2023 - Nov 2025
-**Senior Full Stack Developer**
-- Built customer portal using **Next.js 16**, **React 19**, serving **50K+ active customers**
-- Architected **BFF pattern** with secure JWT session management
-- Designed **multi-tenant architecture** with strict data isolation
-- Integrated **Stripe** processing **$2M+ monthly** recurring revenue
-- Led enterprise dashboard serving **2,500+ users** across operations
-
-### 🏢 Better Never Stops (Remote - UK) | May 2021 - Jan 2023
-**Senior Full Stack Developer**
-- Built **Team Simplee** - Enterprise B2B CRM with warehouse management
-- Developed **multi-tenant SaaS** platform serving **85+ SME clients**
-- Implemented **offline-first PWA** for warehouse operations
-- Achieved **99.7% uptime** across all system components
-
-### 🏢 Webcreek (Philippines) | May 2016 - Apr 2021
-**Full Stack Developer → Senior Developer**
-- Built **multi-tenant restaurant management** system for 8 locations
-- Developed **school management system** for 600+ students
-- Improved order processing performance by **75%**
-
----
-
-## 🎓 Education & Certifications
-
-<div align="center">
-
-![AWS](https://img.shields.io/badge/AWS_Solutions_Architect-Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-</div>
-
-- 🎓 **BS Computer Science** - Angeles University Foundation (2014-2018)
-- 📜 **AWS Certified Solutions Architect - Associate** (2023)
-- 📚 **Advanced React Patterns** - Epic React by Kent C. Dodds
-- 📚 **AI for Developers** - DeepLearning.AI
-
----
-
 ## 🎯 Current Focus
 
 - 🔥 Building scalable web applications with modern architectures
@@ -187,44 +145,6 @@ I'm a **Senior Full Stack Developer** with **8+ years of experience** building e
 - 📱 Developing offline-first Progressive Web Apps
 
 ---
-
-## 🌍 Why Hire Me for Remote Work?
-
-<table>
-<tr>
-<td width="50%">
-
-### ✅ Remote Work Experience
-- 4+ years working with **distributed teams** (US, UK, Asia)
-- Experienced with **async communication** & documentation
-- Self-motivated with excellent **time management**
-- Comfortable with **multiple time zones**
-
-</td>
-<td width="50%">
-
-### ✅ Technical Excellence
-- **Full Stack** expertise (Frontend + Backend + Mobile)
-- **AI/ML Integration** with GPT-4 & LangChain
-- **System Design** for scalable architectures
-- Strong **problem-solving** & debugging skills
-
-</td>
-</tr>
-</table>
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-  
-[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
-[![Schedule Call](https://img.shields.io/badge/Schedule_a_Call-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white)](https://calendly.com/yourlink)
-
-</div>
 
 ---
 
@@ -239,11 +159,8 @@ I'm a **Senior Full Stack Developer** with **8+ years of experience** building e
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=logitechwinwin&style=for-the-badge&color=00D9FF" alt="Profile Views"/>
   
-  ### Thanks for visiting! 😊
-  
-  *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-  
-  ---
+  ### Thanks for visiting! 😊  
+---
   
   **💼 Open to Remote Opportunities | 🌏 Available for Global Teams | ⏰ Flexible Hours**
 </div>
