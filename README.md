@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I'm a **Senior Full Stack Developer** with **8+ years of experience** building enterprise-grade applications. I specialize in creating scalable, high-performance web and mobile solutions for global companies.
+I'm a **Senior Full Stack Developer** with **10 years of experience** building enterprise-grade applications. I specialize in creating scalable, high-performance web and mobile solutions for global companies.
 
 - 🔭 **Currently:** Open to new remote opportunities
 - 🏢 **Previous:** Senior Full Stack Developer at Aptive Environmental (US Remote)
@@ -164,3 +164,4 @@ I'm a **Senior Full Stack Developer** with **8+ years of experience** building e
   
   **💼 Open to Remote Opportunities | 🌏 Available for Global Teams | ⏰ Flexible Hours**
 </div>
+
