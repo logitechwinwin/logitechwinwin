@@ -1,7 +1,7 @@
 # Hi there, I'm Win Win!  👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Senior+Full+Stack+Developer;8%2B+Years+of+Experience;Building+Scalable+Web+Applications;AI%2FML+Integration+Specialist;Remote+Work+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Senior+Full+Stack+Developer;9%2B+Years+of+Experience;Building+Scalable+Web+Applications;AI%2FML+Integration+Specialist;Remote+Work+Expert" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -164,4 +164,5 @@ I'm a **Senior Full Stack Developer** with **10 years of experience** building e
   
   **💼 Open to Remote Opportunities | 🌏 Available for Global Teams | ⏰ Flexible Hours**
 </div>
+
 
