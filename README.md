@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-    <a href="https://portfolio-jonathan-97.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+    <a href="https://portfolio-minder-810.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </div>
 
 <br/>
@@ -17,7 +17,7 @@
 I'm a **Senior Full Stack Developer** with **10 years of experience** building enterprise-grade applications. I specialize in creating scalable, high-performance web and mobile solutions for global companies.
 
 - 🔭 **Currently:** Open to new remote opportunities
-- 🏢 **Previous:** Senior Full Stack Developer at Aptive Environmental (US Remote)
+- 🏢 **Previous:** Senior Full Stack Developer at Pure Property Management (US Remote)
 - 🌍 **Experience:** Worked with teams across US, UK, and Asia-Pacific
 - 💼 **Expertise:** Enterprise CRM, E-commerce, PWA, AI Integration
 - 🎯 **Focus:** Building scalable applications serving 50K+ users
